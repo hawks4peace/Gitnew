@@ -1,0 +1,7 @@
+git status :- check status of the local repository (on desktop)
+
+git add shoppinglist.txt :- stage the changes to shopping list in local repository
+
+git commit -m "add avacado" :- commit the changes with a message 
+
+git push :- push the changes to github
