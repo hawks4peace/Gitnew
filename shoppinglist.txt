@@ -6,3 +6,6 @@ pineapples
 mangoes
 cherries
 almonds
+cachews
+yogurt
+peanuts
