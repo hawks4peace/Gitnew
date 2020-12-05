@@ -1,3 +1,5 @@
+git clone https://github.com/hawks4peace/Gitnew.git :- download the repository from github to local system
+
 git status :- check status of the local repository (on desktop)
 
 git add shoppinglist.txt :- stage the changes to shopping list in local repository
